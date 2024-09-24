@@ -45,4 +45,26 @@
    cp .env.example .env
    ```
 
-  Update the .env file with your database credentials.
+     Update the .env file with your database credentials.
+
+5. Generate the application key:
+   ```bash
+   php artisan key:generate
+   ```
+
+6. Run the database migrations:
+   ```bash
+   php artisan migrate
+   ```
+
+7. Start the local development server:
+   ```bash
+   php artisan serve
+   ```
+## 🛠️ Usage
+Once the app is running, navigate to http://localhost:8000 to access the interface. From there, you can:
+
+- View all bands
+- Add new bands
+- Edit or remove existing bands
+- View, add, edit, and delete albums associated with specific bands
