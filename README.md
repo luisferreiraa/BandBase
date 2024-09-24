@@ -68,3 +68,17 @@ Once the app is running, navigate to http://localhost:8000 to access the interfa
 - Add new bands
 - Edit or remove existing bands
 - View, add, edit, and delete albums associated with specific bands
+
+## 🎨 Screenshots
+
+## 🤝 Contributing
+We welcome contributions! Please see our CONTRIBUTING guidelines for more details on how to get started.
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📬 Contact
+For any questions or suggestions, feel free to contact us:
+
+- **Email:** luiscarneiroferreira@gmail.com
+- **GitHub:** luisferreiraa
