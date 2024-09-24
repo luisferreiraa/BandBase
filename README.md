@@ -82,3 +82,5 @@ For any questions or suggestions, feel free to contact us:
 
 - **Email:** luiscarneiroferreira@gmail.com
 - **GitHub:** luisferreiraa
+
+Enjoy using **BandBase**! Keep rocking! 🎸✨
